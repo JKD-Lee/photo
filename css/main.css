@@ -1596,6 +1596,7 @@
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		text-shadow: 4px 3px 3px #7373734f;
 	}
 
 		h2.alt {
@@ -2168,6 +2169,7 @@
 				#main > section.dark strong {
 					color: #fff;
 					border-color: inherit;
+					text-shadow: 4px 2px 4px #535353;
 				}
 
 				#main > section.dark a {
